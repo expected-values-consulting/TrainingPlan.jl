@@ -1,7 +1,5 @@
 module TrainingPlan
 
-
-    using Revise
     using TrainingContent: TrainingTableData
 
 
